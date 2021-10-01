@@ -13,7 +13,7 @@ Sou apaixonada por explorar conhecimentos, tenho formação em Ciências Humanas
   
 &#128215; Entendo que a formação de um profissional em tecnologia é um processo de contínua evolução
 
-&#129327; Na programalçao e na vida sou motivada por conhecer e compartilhar saberes
+&#129327; Na programalção e na vida sou motivada por conhecer e compartilhar saberes
 
 &#128187; O desenvolvimento web me apresenta novidades a cada dia, e essa jornada está apenas começando...
 
