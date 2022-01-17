@@ -50,7 +50,7 @@ Sou apaixonada por explorar conhecimentos, tenho formação em Ciências Humanas
 <img alt="choubari" src="https://camo.githubusercontent.com/03899ca15bc7682cad570e2638be85926777122dce4b90151d5efc897660d5cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e6f64656a732e706e67" width="40">
   </a>
   <a href="https://jestjs.io/">
-<img alt="choubari" src="https://image.pngaaa.com/6/3692006-middle.png" width="40">
+<img alt="choubari" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="40">
   </a>
    <a href="https://testing-library.com/">
 <img alt="choubari" src="https://camo.githubusercontent.com/aa85cea585880ae694b4fe8dde116d092b8907d6351c71fcd76f00f7586fad72/68747470733a2f2f74657374696e672d6c6962726172792e636f6d2f696d672f6f63746f7075732d313238783132382e706e67" width="40">
