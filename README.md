@@ -13,7 +13,9 @@ Sou apaixonada por explorar conhecimentos, tenho formação em Ciências Humanas
   
 &#128215; Entendo que a formação de um profissional em tecnologia é um processo de contínua evolução
 
-👨‍💻 Meus estudos são voltados para me transformar em uma Desenvolvedora Full Stack
+👨‍💻 Meus estudos são voltados para me transformar em uma Desenvolvedora Back-end
+
+<img src="https://emoji.gg/assets/emoji/1887_python.png" width="15px" height="15px" alt="python"> Atualmente estou aprendendo Python
 
 &#129327; Na programalção e na vida sou motivada por conhecer e compartilhar saberes
 
@@ -70,9 +72,7 @@ Sou apaixonada por explorar conhecimentos, tenho formação em Ciências Humanas
   <a href="https://www.linux.org/">
 <img alt="choubari" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40">
   </a>
-  <a href="https://www.npmjs.com/">
-<img alt="choubari" src="https://haynes.blog.br/wp-content/uploads/2018/04/featured_huf4ccd09dd756afcbac5f8896d9a60c65_19260_680x0_resize_q75_box.jpg" width="40">
-  </a>
+  <a href="https://www.python.org/"><img src="https://emoji.gg/assets/emoji/1887_python.png" width="40" alt="python"></a>
   </p>
   
   </div>
