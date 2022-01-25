@@ -48,9 +48,6 @@ Sou apaixonada por explorar conhecimentos, tenho formação em Ciências Humanas
  <a href="https://code.visualstudio.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
-<a href="https://nodejs.org/en/">
-<img alt="choubari" src="https://camo.githubusercontent.com/03899ca15bc7682cad570e2638be85926777122dce4b90151d5efc897660d5cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e6f64656a732e706e67" width="40">
-  </a>
   <a href="https://jestjs.io/">
 <img alt="choubari" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="40">
   </a>
