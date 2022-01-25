@@ -5,10 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-carolinavpinheiro-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carolinavpinheiro@gmail.com)](mailto:carolinavpinheiro@gmail.com)
   
   
-Bem vinda(o) ao meu perfil!
+Boas vindas ao meu perfil!
 
 Moro em Belo Horizonte &#127751; e adoro me [conectar](https://www.linkedin.com/in/carolina-vasconcelos-pinheiro/)!
-Sou apaixonada por explorar conhecimentos, tenho formação em Ciências Humanas e Turismo e atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/).
+Sou apaixonada por explorar conhecimentos, tenho formação em [Ciências Humanas](https://www.ufjf.br/bach/) e [Turismo](https://www.ufjf.br/turismo/) e atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/).
 
   
 &#128215; Entendo que a formação de um profissional em tecnologia é um processo de contínua evolução
@@ -27,26 +27,23 @@ Sou apaixonada por explorar conhecimentos, tenho formação em Ciências Humanas
 
 
 <p float="left">
- <a href="https://en.wikipedia.org/wiki/HTML">
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
  </a>
- <a href="https://en.wikipedia.org/wiki/CCS3">
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
   </a>
- <a href="https://en.wikipedia.org/wiki/JavaScript">
+ <a href="https://www.javascript.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
   </a>
  <a href="https://reactjs.org/">
 <img alt="choubari" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40">
   </a>
-  <a href="https://code.visualstudio.com/">
+  <a href="https://redux.js.org/">
 <img alt="choubari" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40">
   </a>
  <a href="https://nodejs.org/en/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
-  </a>
- <a href="https://code.visualstudio.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
   <a href="https://jestjs.io/">
 <img alt="choubari" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="40">
