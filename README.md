@@ -15,9 +15,9 @@ Sou apaixonada por explorar conhecimentos, tenho formação em [Ciências Humana
 
 👨‍💻 Meus estudos são voltados para me transformar em uma Desenvolvedora Back-end
 
-<img src="https://emoji.gg/assets/emoji/php.png" width="20px" height="20px" alt="python"> Atualmente estou aprendendo php
+<img src="https://emoji.gg/assets/emoji/php.png" width="20px" height="20px" alt="python"> Atualmente estou trabalhando com php
 
-&#129327; Na programalção e na vida sou motivada por conhecer e compartilhar saberes
+&#129327; Na programação e na vida sou motivada por conhecer e compartilhar saberes
 
 🔭 O desenvolvimento web me apresenta novidades a cada dia, e essa jornada está apenas começando...
 
